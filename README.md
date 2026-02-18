@@ -1,1 +1,15 @@
 # Leetcode-Programming
+
+## Progress Tracker
+
+## Challenge | Status | Spaced Rep
+- **Reverse String** [/] [25/02/26]
+- **Palindrome check** [] []
+- **FizzBuzz** [] []
+- **Factorial (loop + recursion)** [] []
+- **Fibonacci** [] []
+- **Find max/min** [] []
+- **Remove duplicates (array)** [] []
+- **Missing number** [] []
+- **Anagram check** [] []
+- **Binary search** [] []
