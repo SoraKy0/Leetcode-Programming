@@ -4,7 +4,7 @@
 
 ## Challenge | Status | Spaced Rep
 - **Reverse String** [/] [25/02/26]
-- **Palindrome check** [] []
+- **Palindrome check** [/] [28/02/26]
 - **FizzBuzz** [] []
 - **Factorial (loop + recursion)** [] []
 - **Fibonacci** [] []
