@@ -6,7 +6,7 @@
 - **Reverse String** [/] [25/02/26]
 - **Palindrome check** [/] [28/02/26]
 - **FizzBuzz** [/] [01/03/26]
-- **Factorial (loop + recursion)** [] []
+- **Factorial (loop + recursion)** [/] [1/03/26]
 - **Fibonacci** [] []
 - **Find max/min** [] []
 - **Remove duplicates (array)** [] []
