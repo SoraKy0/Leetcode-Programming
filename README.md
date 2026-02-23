@@ -7,7 +7,7 @@
 - **Palindrome check** [/] [28/02/26]
 - **FizzBuzz** [/] [01/03/26]
 - **Factorial (loop + recursion)** [/] [1/03/26]
-- **Fibonacci** [] []
+- **Fibonacci** [/] [02/03/26]
 - **Find max/min** [] []
 - **Remove duplicates (array)** [] []
 - **Missing number** [] []
