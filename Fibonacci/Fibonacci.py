@@ -2,21 +2,19 @@
 
 def Fibonacci(ls):
 
-  fibSeq = [0,1]
-
-  if ls == 0:
-    return(fibSeq[0])
+  if ls <= 0:
+    return []
   elif ls == 1:
-    return(fibSeq[0], fibSeq[1])
-  
-  else:
-    for i in range(ls-2):
-      nextNum= fibSeq[i] + fibSeq[i-1]
-      fibSeq.append(nextNum)
-    return fibSeq
+    return [0]
+
+  fibSeq = [0,1]
+  for i in range(ls-2):
+    nextNum = fibSeq[-1] + fibSeq[-2]
+    fibSeq.append(nextNum)
+
+
+  return fibSeq
 
 
 listSize = int(input("Enter a number: "))
 print(Fibonacci(listSize))
-    
-    
