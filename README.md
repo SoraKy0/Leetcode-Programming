@@ -9,7 +9,7 @@
 - **Factorial (loop + recursion)** [/] [1/03/26] []
 - **Fibonacci** [/] [02/03/26] []
 - **Find max/min** [/] [04/03/26] []
-- **Remove duplicates (array)** [] [] []
+- **Remove duplicates (array)** [/] [13/03/26] []
 - **Missing number** [] [] []
 - **Anagram check** [] [] []
 - **Binary search** [] [] []
